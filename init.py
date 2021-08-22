@@ -194,4 +194,4 @@ async def on_message(message):
                     await message.channel.send('alright, error reported to <@188289061708890113> thankyou!')
 
 
-client.run('ODcxNjA2MDQzMDAyNjkxNTk0.YQdwYg.orVhvv3OnkHcPMDIaGAJGccriXc') # Add bot token here
+client.run('ODcxNjA2MDQzMDAyNjkxNTk0.YQdwYg.8wM1AqnWk1GSGYjYM5MYvBQavTw') # Add bot token here
