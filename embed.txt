@@ -1,0 +1,107 @@
+{
+    "content": "",
+    "embed": {
+        "title": "author.name SLP DATA",
+        "description": "",
+        "color": 16716016,
+        "timestamp": "2021-08-13T04:28:45.537Z",
+        "url": "https://discord.com",
+        "author": {
+            "name": "TB - v1",
+            "url": "https://discord.com",
+            "icon_url": ""
+        },
+        "thumbnail": {
+            "url": ""
+        },
+        "image": {
+            "url": ""
+        },
+        "footer": {
+            "text": "The earnings that displayed may not be in accordance with what  determined by the TTB Managers, all earnings are return to the TTB Managers later.",
+            "icon_url": ""
+        },
+        "fields": [
+            {
+                "name": "All Time",
+                "value": "row.Slpt",
+                "inline": true
+            },
+            {
+                "name": "Inventory (Unclaim)",
+                "value": "row.Slpu",
+                "inline": true
+            },
+            {
+                "name": "Claim (All Time)",
+                "value": "row.Claimall",
+                "inline": true
+            },
+            {
+                "name": "2 Days Ago",
+                "value": "row.2days",
+                "inline": true
+            },
+            {
+                "name": "Yesterday",
+                "value": "row.Yesterday",
+                "inline": true
+            },
+            {
+                "name": "Today (Before Reset)",
+                "value": "row.Today",
+                "inline": true
+            },
+            {
+                "name": "This Weeks",
+                "value": "row.Weeks",
+                "inline": true
+            },
+            {
+                "name": "This Months",
+                "value": "row.Months",
+                "inline": true
+            },
+            {
+                "name": "Share Percentage",
+                "value": "row.Share",
+                "inline": true
+            },
+            {
+                "name": "Est. Earnings Inventory",
+                "value": "row.Earninvent",
+                "inline": true
+            },
+            {
+                "name": "Total USD",
+                "value": "row.Totusd",
+                "inline": true
+            },
+            {
+                "name": "Total PHP",
+                "value": "row.Totphp",
+                "inline": true
+            },
+            {
+                "name": "Est. Earnings Share",
+                "value": "row.Earnshare",
+                "inline": true
+            },
+            {
+                "name": "Earn USD",
+                "value": "row.Earnusd",
+                "inline": true
+            },
+            {
+                "name": "Earn PHP",
+                "value": "row.Earnphp",
+                "inline": true
+            },
+            {
+                "name": "",
+                "value": "",
+                "inline": true
+            }
+        ]
+    }
+}

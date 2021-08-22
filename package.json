@@ -1,0 +1,13 @@
+{
+  "name": "discord-currency",
+  "version": "1.0.0",
+  "description": "manages currency for a server",
+  "main": "index.js",
+  "author": "Zolusion",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.6.0",
+    "google-spreadsheet": "^3.1.15"
+  }
+}
